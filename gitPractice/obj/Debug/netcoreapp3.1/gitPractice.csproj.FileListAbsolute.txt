@@ -1,0 +1,14 @@
+E:\C#\debashissatapathy\gitPractice\bin\Debug\netcoreapp3.1\gitPractice.exe
+E:\C#\debashissatapathy\gitPractice\bin\Debug\netcoreapp3.1\gitPractice.deps.json
+E:\C#\debashissatapathy\gitPractice\bin\Debug\netcoreapp3.1\gitPractice.runtimeconfig.json
+E:\C#\debashissatapathy\gitPractice\bin\Debug\netcoreapp3.1\gitPractice.runtimeconfig.dev.json
+E:\C#\debashissatapathy\gitPractice\bin\Debug\netcoreapp3.1\gitPractice.dll
+E:\C#\debashissatapathy\gitPractice\bin\Debug\netcoreapp3.1\gitPractice.pdb
+E:\C#\debashissatapathy\gitPractice\obj\Debug\netcoreapp3.1\gitPractice.csproj.AssemblyReference.cache
+E:\C#\debashissatapathy\gitPractice\obj\Debug\netcoreapp3.1\gitPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\debashissatapathy\gitPractice\obj\Debug\netcoreapp3.1\gitPractice.AssemblyInfoInputs.cache
+E:\C#\debashissatapathy\gitPractice\obj\Debug\netcoreapp3.1\gitPractice.AssemblyInfo.cs
+E:\C#\debashissatapathy\gitPractice\obj\Debug\netcoreapp3.1\gitPractice.csproj.CoreCompileInputs.cache
+E:\C#\debashissatapathy\gitPractice\obj\Debug\netcoreapp3.1\gitPractice.dll
+E:\C#\debashissatapathy\gitPractice\obj\Debug\netcoreapp3.1\gitPractice.pdb
+E:\C#\debashissatapathy\gitPractice\obj\Debug\netcoreapp3.1\gitPractice.genruntimeconfig.cache

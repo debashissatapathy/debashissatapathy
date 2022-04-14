@@ -7,6 +7,8 @@ namespace gitPractice
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Br1-Main");
         }
     }
 }
