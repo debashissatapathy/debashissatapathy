@@ -1,0 +1,14 @@
+E:\C#\Variable\Access Modifier\Access_Md\bin\Debug\netcoreapp3.1\Access_Md.exe
+E:\C#\Variable\Access Modifier\Access_Md\bin\Debug\netcoreapp3.1\Access_Md.deps.json
+E:\C#\Variable\Access Modifier\Access_Md\bin\Debug\netcoreapp3.1\Access_Md.runtimeconfig.json
+E:\C#\Variable\Access Modifier\Access_Md\bin\Debug\netcoreapp3.1\Access_Md.runtimeconfig.dev.json
+E:\C#\Variable\Access Modifier\Access_Md\bin\Debug\netcoreapp3.1\Access_Md.dll
+E:\C#\Variable\Access Modifier\Access_Md\bin\Debug\netcoreapp3.1\Access_Md.pdb
+E:\C#\Variable\Access Modifier\Access_Md\obj\Debug\netcoreapp3.1\Access_Md.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Variable\Access Modifier\Access_Md\obj\Debug\netcoreapp3.1\Access_Md.AssemblyInfoInputs.cache
+E:\C#\Variable\Access Modifier\Access_Md\obj\Debug\netcoreapp3.1\Access_Md.AssemblyInfo.cs
+E:\C#\Variable\Access Modifier\Access_Md\obj\Debug\netcoreapp3.1\Access_Md.csproj.CoreCompileInputs.cache
+E:\C#\Variable\Access Modifier\Access_Md\obj\Debug\netcoreapp3.1\Access_Md.dll
+E:\C#\Variable\Access Modifier\Access_Md\obj\Debug\netcoreapp3.1\Access_Md.pdb
+E:\C#\Variable\Access Modifier\Access_Md\obj\Debug\netcoreapp3.1\Access_Md.genruntimeconfig.cache
+E:\C#\Variable\Access Modifier\Access_Md\obj\Debug\netcoreapp3.1\Access_Md.csproj.AssemblyReference.cache
