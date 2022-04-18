@@ -7,10 +7,12 @@ namespace Employee_Wages
 
         static void Main(string[] args)
         {
-            
+
             UC2 u1 = new UC2();
             u1.salary();
-            Console.ReadKey();
+            UC3 u2 = new UC3();
+            u2.partTime();
+            
         }
     }
 }
