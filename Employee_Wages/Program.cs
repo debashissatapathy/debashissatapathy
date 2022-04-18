@@ -7,8 +7,9 @@ namespace Employee_Wages
 
         static void Main(string[] args)
         {
-            UC1 u = new UC1();
-            u.Attendance();
+            
+            UC2 u1 = new UC2();
+            u1.salary();
             Console.ReadKey();
         }
     }
