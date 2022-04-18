@@ -17,11 +17,11 @@ namespace Employee_Wages
             switch(empType)
             {
                 case "PartTime":
-                    Console.WriteLine("PartTime Employee");
+                    Console.WriteLine("PartTime per day salary");
                     Console.WriteLine(salary);
                     break;
                 case "FullTime":           
-                    Console.WriteLine("FullTime EMployee");
+                    Console.WriteLine("FullTime per day salary");
                     Console.WriteLine(fullDayHr * empRateperHr);
                     break;
 

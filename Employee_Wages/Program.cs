@@ -12,6 +12,7 @@ namespace Employee_Wages
             u1.salary();
             UC3 u2 = new UC3();
             u2.partTime();
+            UC4.Monthly_Sal();
             
         }
     }
