@@ -13,6 +13,8 @@ namespace Employee_Wages
             UC3 u2 = new UC3();
             u2.partTime();
             UC4.Monthly_Sal();
+            UC5 u4 = new UC5();
+            u4.Total_Time();
             
         }
     }
