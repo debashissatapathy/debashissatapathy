@@ -1,0 +1,14 @@
+E:\C#\debashissatapathy\Employee_Wages\obj\Debug\netcoreapp3.1\Employee_Wages.csproj.AssemblyReference.cache
+E:\C#\debashissatapathy\Employee_Wages\obj\Debug\netcoreapp3.1\Employee_Wages.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\debashissatapathy\Employee_Wages\obj\Debug\netcoreapp3.1\Employee_Wages.AssemblyInfoInputs.cache
+E:\C#\debashissatapathy\Employee_Wages\obj\Debug\netcoreapp3.1\Employee_Wages.AssemblyInfo.cs
+E:\C#\debashissatapathy\Employee_Wages\obj\Debug\netcoreapp3.1\Employee_Wages.csproj.CoreCompileInputs.cache
+E:\C#\debashissatapathy\Employee_Wages\bin\Debug\netcoreapp3.1\Employee_Wages.exe
+E:\C#\debashissatapathy\Employee_Wages\bin\Debug\netcoreapp3.1\Employee_Wages.deps.json
+E:\C#\debashissatapathy\Employee_Wages\bin\Debug\netcoreapp3.1\Employee_Wages.runtimeconfig.json
+E:\C#\debashissatapathy\Employee_Wages\bin\Debug\netcoreapp3.1\Employee_Wages.runtimeconfig.dev.json
+E:\C#\debashissatapathy\Employee_Wages\bin\Debug\netcoreapp3.1\Employee_Wages.dll
+E:\C#\debashissatapathy\Employee_Wages\bin\Debug\netcoreapp3.1\Employee_Wages.pdb
+E:\C#\debashissatapathy\Employee_Wages\obj\Debug\netcoreapp3.1\Employee_Wages.dll
+E:\C#\debashissatapathy\Employee_Wages\obj\Debug\netcoreapp3.1\Employee_Wages.pdb
+E:\C#\debashissatapathy\Employee_Wages\obj\Debug\netcoreapp3.1\Employee_Wages.genruntimeconfig.cache
